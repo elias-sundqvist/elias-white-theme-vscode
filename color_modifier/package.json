@@ -1,0 +1,12 @@
+{
+  "name": "color_modifier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "color": "^4.2.1",
+    "edit-file": "^0.3.0",
+    "recursive-readdir-async": "^1.2.1"
+  },
+  "type": "module"
+}

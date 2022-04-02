@@ -1,0 +1,21 @@
+{
+    "name": "elias-white-theme",
+    "displayName": "elias-white-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Elias White Theme",
+                "uiTheme": "vs",
+                "path": "./themes/pitch-black-color-theme.json"
+            }
+        ]
+    }
+}
