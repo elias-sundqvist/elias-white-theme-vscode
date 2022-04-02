@@ -1,20 +1,32 @@
 {
     "name": "elias-white-theme",
-    "displayName": "elias-white-theme",
-    "description": "",
+    "displayName": "Elias White Theme",
+    "description": "A Pure White Theme",
     "version": "0.0.1",
+    "publisher": "EliasSundqvist",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/elias-sundqvist/elias-white-theme-vscode"
+    },
     "engines": {
         "vscode": "^1.66.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "theme",
+        "bright",
+        "white",
+        "cool",
+        "elias"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Elias White Theme",
                 "uiTheme": "vs",
-                "path": "./themes/pitch-black-color-theme.json"
+                "path": "./themes/white_theme.json"
             }
         ]
     }
