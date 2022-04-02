@@ -1,0 +1,2 @@
+curl https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_vs.json --output original_dark_vs.json
+curl https://raw.githubusercontent.com/microsoft/vscode/main/extensions/theme-defaults/themes/dark_plus.json --output original_dark_plus.json

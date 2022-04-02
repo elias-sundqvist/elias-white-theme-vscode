@@ -2,7 +2,7 @@
     "name": "elias-white-theme",
     "displayName": "Elias White Theme",
     "description": "A Pure White Theme",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "EliasSundqvist",
     "repository": {
         "type": "git",
@@ -25,8 +25,8 @@
         "themes": [
             {
                 "label": "Elias White Theme",
-                "uiTheme": "vs",
-                "path": "./themes/white_theme.json"
+                "uiTheme": "vs-dark",
+                "path": "./themes/theme.json"
             }
         ]
     }
